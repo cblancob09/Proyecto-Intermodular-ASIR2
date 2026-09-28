@@ -34,3 +34,6 @@ Desplegar una infraestructura informática integral, segura y escalable que dé 
 | **Diseñadores y Artistas** | Creadores del contenido gráfico y sonoro | Transferencia fluida de archivos pesados de modelado y arte sin cortes. |
 | **Dirección del Estudio** | Responsables de la gestión y presupuesto | Costes optimizados, seguridad de la propiedad intelectual y continuidad del negocio. |
 | **Jugadores (Testers)** | Usuarios externos de las versiones de prueba | Disponibilidad del servicio y baja latencia en las partidas multijugador. |
+
+---
+*Documentación elaborada para el Proyecto Intermodular de 2.º de ASIR.*
