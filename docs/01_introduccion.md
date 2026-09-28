@@ -25,3 +25,12 @@ Desplegar una infraestructura informática integral, segura y escalable que dé 
 * Facilitar el acceso remoto seguro para los miembros del equipo que trabajen fuera de la oficina.
 * Desplegar los servicios necesarios para realizar pruebas de partidas multijugador en un entorno controlado.
 * Establecer una política automatizada de copias de seguridad para la protección de los datos.
+
+## 1.5. Interesados
+
+| Interesado | Relación con el proyecto | Necesidad principal |
+| --- | --- | --- |
+| **Equipo de Desarrollo** | Usuarios principales de la infraestructura | Almacenamiento rápido, acceso a repositorios de código y entorno de pruebas estable. |
+| **Diseñadores y Artistas** | Creadores del contenido gráfico y sonoro | Transferencia fluida de archivos pesados de modelado y arte sin cortes. |
+| **Dirección del Estudio** | Responsables de la gestión y presupuesto | Costes optimizados, seguridad de la propiedad intelectual y continuidad del negocio. |
+| **Jugadores (Testers)** | Usuarios externos de las versiones de prueba | Disponibilidad del servicio y baja latencia en las partidas multijugador. |
